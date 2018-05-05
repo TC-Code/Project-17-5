@@ -1,0 +1,24 @@
+{
+  "name": "project-17-4",
+  "version": "1.0.0",
+  "description": "17.4. Serwowanie plików statycznych + 17.5. Middleware",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TC-Code/Project-17-4.git"
+  },
+  "author": "TC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TC-Code/Project-17-4/issues"
+  },
+  "homepage": "https://github.com/TC-Code/Project-17-4#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
